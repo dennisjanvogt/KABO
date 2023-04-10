@@ -32,6 +32,7 @@ public class Deck {
                 index++;
             }
         }
+        shuffle();
     }
 
     public void shuffle() {
